@@ -1,0 +1,66 @@
+#dogovor{
+    padding: 140px 0px 0px 0px;
+}
+
+.content_dog h2{
+    padding-bottom: 100px;
+    font-family: "Inter_bold",sans-serif;
+    font-size: 42px;
+}
+
+.arrow_r img{
+    max-width: 100%;
+}
+
+.arrow_l img{
+    max-width: 100%;
+}
+
+.mini{
+    width: 400px !important;
+}
+
+// .mini:nth-of-type(2){
+//     margin: 0 100px 0 100px;
+// }
+
+.fir_text{
+    padding-top: 40px;
+    gap:60px;
+    padding-bottom: 95px;
+    display: flex;
+}
+
+.mini h4{
+    font-family: "Inter_bold",sans-serif;
+    font-size: 16px;
+    padding-bottom: 16px;
+}
+
+.mini p{
+    font-family: "Montserrat_reg",sans-serif;
+    font-size: 14px;
+    color:rgb(92, 92, 92);
+    // padding-bottom: 16px;
+}
+
+.main_bl_sm{
+    display: flex;
+}
+
+.fir_text_sm {
+    height: 100%;
+    display:grid;
+    gap:97px;
+}
+
+
+.mini_sm p{
+    text-align: start;
+    font-size: 14px;
+}
+
+.mini_sm h4{
+    text-align: start;
+    font-size: 18px;
+}

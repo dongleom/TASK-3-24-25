@@ -1,0 +1,97 @@
+#offers_nashi_w{
+    padding: 90px 0 60px 0;
+}
+
+.content h2{
+  font-family: "Inter_bold",sans-serif;
+  font-size: 42px;
+  padding-bottom: 32px;
+}
+
+.text_bl p{
+    font-family: "Montserrat_reg",sans-serif;
+    font-size: 18px;
+    max-width: 100%;
+}
+
+.text_bl p:nth-of-type(1){
+    padding-bottom: 15px;
+    padding-top: 40px;
+}
+
+.tabs{
+    gap:10px;
+    display: flex;
+}
+
+.tabs button:nth-child(1){
+    border:none;
+    background-color: #FFC239;
+    color: #212864;
+    padding: 12px 35px;
+    border-radius: 25px;
+    font-family: "Inter_semib",sans-serif;
+}
+
+.tabs button{
+    border:none;
+    background-color: #EEEEEE;
+    color: #212864;
+    padding: 12px 35px;
+    border-radius: 25px;
+    font-family: "Inter_semib",sans-serif;
+}
+
+
+.tabs_sm{
+    gap:13px;
+    
+}
+
+.fir{
+    gap:5px;
+}
+
+.sec{
+    gap:5px;
+}
+
+.fir button:nth-child(1){
+    border:none;
+    background-color: #FFC239;
+    color: #212864;
+    padding: 12px 35px;
+    border-radius: 25px;
+    font-family: "Inter_semib",sans-serif;
+    
+}
+
+.tabs_sm button{
+    border:none;
+    background-color: #EEEEEE;
+    color: #212864;
+    padding: 12px 35px;
+    border-radius: 25px;
+    font-family: "Inter_semib",sans-serif;
+}
+
+
+.grid_nashi_w{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 405px;
+    gap:20px;
+    padding-top: 40px;
+}
+
+.grid_nashi_w .items_grid:nth-of-type(odd){
+    background-image: url('../../image_index/odd.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.grid_nashi_w .items_grid:nth-of-type(even){
+    background-image: url('../../image_index/even.jpg');
+    background-position: center;
+    background-size: cover;
+}

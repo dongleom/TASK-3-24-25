@@ -1,0 +1,85 @@
+#offers{
+    padding: 90px 0;
+}
+
+
+.top_links_nashi_w{
+    padding-bottom: 34px;
+}
+.top_links_nashi_w a {
+    text-decoration: none;
+    color: rgb(59, 59, 59);
+    font-family:  "Montserrat_reg",sans-serif;
+    font-size: 12px;
+}
+
+.top_links_nashi_w a:nth-of-type(1) {
+    padding-right: 12px;
+}
+
+.top_links_nashi_w a:nth-of-type(2) {
+    padding-right: 12px;
+}
+
+.content h2{
+  font-family: "Inter_bold",sans-serif;
+  font-size: 42px;
+  padding-bottom: 32px;
+}
+
+.tabs{
+    gap:10px;
+    display: flex;
+}
+
+.tabs button:nth-child(1){
+    border:none;
+    background-color: #FFC239;
+    color: #212864;
+    padding: 12px 25px;
+    border-radius: 25px;
+    font-family: "Inter_semib",sans-serif;
+}
+
+.tabs button{
+    border:none;
+    background-color: #EEEEEE;
+    color: #212864;
+    padding: 12px 25px;
+    border-radius: 25px;
+    font-family: "Inter_semib",sans-serif;
+    
+}
+
+
+.tabs_sm{
+    gap:13px;
+    
+}
+
+.fir{
+    gap:5px;
+}
+
+.sec{
+    gap:5px;
+}
+
+.fir button:nth-child(1){
+    border:none;
+    background-color: #FFC239;
+    color: #212864;
+    padding: 12px 35px;
+    border-radius: 25px;
+    font-family: "Inter_semib",sans-serif;
+    
+}
+
+.tabs_sm button{
+    border:none;
+    background-color: #EEEEEE;
+    color: #212864;
+    padding: 12px 35px;
+    border-radius: 25px;
+    font-family: "Inter_semib",sans-serif;
+}

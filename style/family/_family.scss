@@ -1,0 +1,75 @@
+#family{
+    height: auto;
+}
+
+.block-content{
+    display: flex;
+}
+.move_part{
+    padding: 79px 63px 105px 63px;
+}
+
+.move_part img{
+    padding-top: 52px;
+}
+
+.col_two{
+    background-color: #F1F1F6;
+    height: auto;
+}
+
+.col_one {
+    width: 100%;
+    background-image: url('../../image_index/family.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+
+.move_part h2 span{
+    font-family: "Inter_reg",sans-serif;
+}
+
+.move_part h2 {
+    font-family: "Inter_bold",sans-serif;
+    font-size: 38px;
+}
+
+.block-content_sm{
+    position: relative;
+    height: 800px;
+   
+}
+
+.block-content_sm::after{
+    background-size: cover;
+    background-position: center;
+    content: ""; /* служебный элемент */
+    background-image: url('../../image_index/family.jpg');
+    opacity: 0.5; 
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+}
+
+.move_part_sm{
+    padding: 91px 27px 0px 27px;
+    text-align: center;
+}
+
+.move_part_sm h2{
+    font-size: 36px;
+    font-family: "Inter_bold",sans-serif;
+}
+
+.move_part_sm h2 span{
+    font-family: "Inter_reg",sans-serif;
+    color:rgb(81, 81, 81);
+}
+
+.move_part_sm img{
+    padding-top: 334px;
+}

@@ -1,0 +1,103 @@
+#dostavka_st{
+    padding: 86px 0;
+    background-color: #F1F1F6;
+}
+
+.content_st{
+    h2{
+        font-family: "Inter_bold",sans-serif;
+        font-size: 40px;
+        max-width: 1018px;
+        padding-bottom: 31px;
+    }
+
+    .text_st{
+        h4{
+            font-family: "Montserrat_semib",sans-serif;
+            font-size: 22px;
+            color:#536FA4;
+            padding-bottom: 36px;
+        }
+
+        ul{
+            padding: 0px;
+        }
+        li{
+            padding-bottom: 17px;
+            i{
+                color:#536FA4;
+                width: 15px;
+                padding-right: 42px;
+                justify-self: center;
+                align-self: center;
+            }
+
+            p{
+                font-family:  "Montserrat_reg",sans-serif;
+                font-size: 16px;
+                color:#212864;
+            }
+        }
+
+        .dop{
+            
+            i{
+                color:#536FA4;
+                width: 15px;
+                padding-right: 42px;
+                justify-self: center;
+                align-self: center;
+            }
+           
+            p{
+                font-family:  "Montserrat_reg",sans-serif;
+                font-size: 16px;
+                color:#212864;
+                max-width: 100%;
+            }
+        }
+
+        h3{
+            color:#212864;
+            font-family: "Montserrat_semib",sans-serif;
+            font-size: 18px;
+            padding-top: 53px;
+        }
+
+        .machin {
+            display: flex;
+            justify-content: space-between;
+            padding-top: 74px;
+           
+
+            .part_one{
+                padding-bottom: 0px;
+            }
+
+
+            .zagol{
+                color:#000000;
+                font-family: "Montserrat_semib",sans-serif;
+                font-size: 22px;
+                padding-top: 12px;
+            }
+            
+            p{
+                font-family:  "Montserrat_reg",sans-serif;
+                font-size: 16px;
+                color:#5a5a5a;
+                max-width: 100%;
+            }
+
+            .part_one img{
+                width: 568px;
+              
+            }
+
+            
+            .part_dva img{
+                width: 568px;
+            }
+        }
+    }
+}

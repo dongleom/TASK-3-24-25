@@ -1,0 +1,50 @@
+#advantages{
+    padding: 84px 0px;
+    background-color: #F6F6F9;
+}
+
+.first, .second{
+    background-color: #fff;
+}
+
+.main_row{
+    gap:20px;
+}
+
+.wrapper{
+    display: grid;
+    grid-template-columns: repeat(2, 10fr);
+    grid-auto-rows: 146px;
+    gap:20px;
+    padding-top: 51px;
+}
+
+.contant_advant h2{
+    font-family: "Inter_bold",sans-serif;
+    font-size: 42px;
+}
+
+.wrapper div{
+    background-color: rgb(255, 255, 255);
+    
+   
+}
+
+.move_part_adv {
+    padding: 36px 44px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    box-shadow:0px 7px 15px rgba(0,0,0,0.1);
+}
+
+.move_part_adv h4{
+    font-family: "Inter_semib",sans-serif;
+    font-size: 20px;
+}
+
+.move_part_adv p{
+    font-family: "Montserrat_reg",sans-serif;
+    font-size: 14px;
+    padding-top: 17px;
+}

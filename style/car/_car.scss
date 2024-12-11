@@ -1,0 +1,85 @@
+#banner_car{
+    background-image: url('../../image_index/fon_car.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 71px 0;
+ 
+    height: 660px;
+}
+
+
+.wrapper_car{
+    display: grid;
+    grid-template-columns: repeat(2, 10fr);
+    grid-auto-rows: 500px;
+    gap:54px;
+    
+}
+
+.levo_car img{
+    
+    width: 100%;
+    
+}
+
+.levo_car{
+    
+    justify-self: center;
+    align-self: center;
+    
+}
+
+.top_links_car a {
+    text-decoration: none;
+    color: rgb(59, 59, 59);
+    border:none;
+    font-family:  "Montserrat_reg",sans-serif;
+    font-size: 12px;
+}
+
+.top_links_car a:nth-of-type(1) {
+    padding-right: 12px;
+}
+
+.top_links_car a:nth-of-type(2) {
+    padding-right: 12px;
+}
+
+.text_info_car h2{
+    font-family: "Inter_bold",sans-serif;
+    font-size: 46px;
+    padding-top: 24px;
+}
+
+.text_info_car p{
+    font-family:  "Montserrat_reg",sans-serif;
+    font-size: 16px;
+    padding-top: 20px;
+    max-width: 100%;
+}
+
+.move_button_car{
+    padding: 43px 1px;
+}
+
+.perehod_car{
+    margin-top: 122px;
+    justify-content: center;
+    align-items: center;
+    max-width: 497px;
+    background-color: #536FA4;
+    border-radius: 20px;
+}
+
+.perehod_car p{
+    font-size: 18px;
+    font-family: "Inter_bold",sans-serif;
+    padding: 43px 31px;
+    color:white;
+}
+
+.perehod_car a{
+    border:none;
+    background: transparent;
+    padding: 13px 11px 13px 0px;
+}
