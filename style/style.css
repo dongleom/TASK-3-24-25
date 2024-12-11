@@ -90,7 +90,7 @@
 }
 
 #banner {
-  background-image: url("../../image_index/fon_banner.jpg");
+  background-image: url("../image_index/fon_banner.jpg");
   background-position: center;
   background-size: cover;
   height: 600px;
@@ -283,7 +283,7 @@
 
 .col_one {
   width: 100%;
-  background-image: url("../../image_index/family.jpg");
+  background-image: url("../image_index/family.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -306,7 +306,7 @@
   background-size: cover;
   background-position: center;
   content: ""; /* служебный элемент */
-  background-image: url("../../image_index/family.jpg");
+  background-image: url("../image_index/family.jpg");
   opacity: 0.5;
   position: absolute;
   top: 0;
@@ -396,7 +396,7 @@
 }
 
 .r_p {
-  background-image: url("../../image_index/house.jpg");
+  background-image: url("../image_index/house.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -435,7 +435,7 @@
 }
 
 #map {
-  background-image: url("../../image_index/map.jpg");
+  background-image: url("../image_index/map.jpg");
   background-position: center;
   background-size: cover;
   height: 770px;
@@ -653,31 +653,31 @@
 .item1 {
   grid-column: 1/-1; /* Занимает всю ширину */
   grid-row: 1; /* Первая строка */
-  background-image: url("../../image_index/first.jpg");
+  background-image: url("../image_index/first.jpg");
 }
 
 .item2 {
   grid-column: 1; /* Первая колонка */
   grid-row: 2; /* Вторая строка */
-  background-image: url("../../image_index/sec.jpg");
+  background-image: url("../image_index/sec.jpg");
 }
 
 .item3 {
   grid-column: 2; /* Вторая колонка */
   grid-row: 2; /* Вторая строка */
-  background-image: url("../../image_index/third.jpg");
+  background-image: url("../image_index/third.jpg");
 }
 
 .item4 {
   grid-column: 1; /* Первая колонка */
   grid-row: 3; /* Третья строка */
-  background-image: url("../../image_index/forth.jpg");
+  background-image: url("../image_index/forth.jpg");
 }
 
 .item5 {
   grid-column: 2; /* Вторая колонка */
   grid-row: 3; /* Третья строка */
-  background-image: url("../../image_index/fifth.jpg");
+  background-image: url("../image_index/fifth.jpg");
 }
 
 .item5 p {
@@ -689,7 +689,7 @@
 }
 
 #stoimost {
-  background-image: url("../../image_index/fon_img.jpg");
+  background-image: url("../image_index/fon_img.jpg");
   background-position: center;
   background-size: cover;
   padding: 81px 0 124px 0;
@@ -723,7 +723,7 @@
 }
 
 #banner_zakaz {
-  background-image: url("../../image_index/fon_zakaz.jpg");
+  background-image: url("../image_index/fon_zakaz.jpg");
   background-size: cover;
   background-position: center;
   padding: 71px 0;
@@ -860,7 +860,7 @@
 }
 
 #distant_top {
-  background-image: url("../../image_index/fon_zakaz.jpg");
+  background-image: url("../image_index/fon_zakaz.jpg");
   background-position: center;
   background-size: cover;
   padding: 96px 0;
@@ -929,7 +929,7 @@
 }
 
 #banner_stroit {
-  background-image: url("../../image_index/fon_zakaz.jpg");
+  background-image: url("../image_index/fon_zakaz.jpg");
   background-size: cover;
   background-position: center;
   padding: 71px 0;
@@ -946,7 +946,7 @@
 }
 
 .levo_stroit {
-  background: url("../../image_index/house_stroit.png") no-repeat center center;
+  background: url("../image_index/house_stroit.png") no-repeat center center;
   width: 100%;
 }
 
@@ -1047,7 +1047,7 @@
 }
 
 #banner_car {
-  background-image: url("../../image_index/fon_car.jpg");
+  background-image: url("../image_index/fon_car.jpg");
   background-size: cover;
   background-position: center;
   padding: 71px 0;
@@ -1289,13 +1289,13 @@
 }
 
 .grid_nashi_w .items_grid:nth-of-type(odd) {
-  background-image: url("../../image_index/odd.jpg");
+  background-image: url("../image_index/odd.jpg");
   background-position: center;
   background-size: cover;
 }
 
 .grid_nashi_w .items_grid:nth-of-type(even) {
-  background-image: url("../../image_index/even.jpg");
+  background-image: url("../image_index/even.jpg");
   background-position: center;
   background-size: cover;
 }
@@ -1526,7 +1526,7 @@ body {
     font-size: 15px;
   }
   #banner_zakaz {
-    background-image: url("../../image_index/fon_zakaz.jpg");
+    background-image: url("../image_index/fon_zakaz.jpg");
     background-size: cover;
     background-position: center;
     padding: 71px 0;
@@ -1840,7 +1840,7 @@ body {
     border-radius: 30px;
   }
   #banner_zakaz {
-    background-image: url("../../image_index/fon_zakaz.jpg");
+    background-image: url("../image_index/fon_zakaz.jpg");
     background-size: cover;
     background-position: center;
     padding: 71px 0 0 0;
@@ -1879,7 +1879,7 @@ body {
     max-width: 100%;
   }
   #banner_stroit {
-    background-image: url("../../image_index/fon_zakaz.jpg");
+    background-image: url("../image_index/fon_zakaz.jpg");
     background-size: cover;
     background-position: center;
     padding: 71px 0;
@@ -1887,7 +1887,7 @@ body {
     height: 590px;
   }
   .levo_stroit {
-    background: url("../../image_index/house_stroit.png") no-repeat center center;
+    background: url("../image_index/house_stroit.png") no-repeat center center;
     width: 100%;
     height: auto;
   }
@@ -2295,7 +2295,7 @@ body {
     grid-row: 5; /* Третья строка */
   }
   #stoimost {
-    background-image: url("../../image_index/fon_img.jpg");
+    background-image: url("../image_index/fon_img.jpg");
     background-position: center;
     background-size: cover;
     padding: 81px 0 100px 0;
@@ -2440,7 +2440,7 @@ body {
     flex-direction: column;
   }
   .levo_stroit {
-    background: url("../../image_index/house_stroit.png") no-repeat center center;
+    background: url("../image_index/house_stroit.png") no-repeat center center;
     width: 100%;
   }
   .text_info_stroit h2 {
